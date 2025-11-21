@@ -1,6 +1,10 @@
 
 # 📚 Medical Database Research Papers Collection
 
+[for the Chinese version, click here, 点击查看中文版本](
+./README_CN.md
+).
+
 ### Cohort Extraction • Reproducible Pipelines • Open Methods
 
 A curated collection of reproducible **SQL cohort-extraction code** and **analysis workflows** used across a series of real-world medical database studies (e.g., **MIMIC-IV**).
