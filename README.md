@@ -28,7 +28,7 @@ Each paper has its own folder containing:
 This repository contains **no patient-level data**.
 Only code and synthetic examples are provided.
 Access to datasets such as **MIMIC-IV** requires official approval.
-
+ 
 ---
 
 ## 📝 Usage
