@@ -2,7 +2,10 @@
 
  [For English Version Click here](./README.md)
 
-本项目包含从 [MIMIC-III](https://mimic.physionet.org/) 或 [MIMIC-IV](https://mimic.physionet.org/) 数据库中提取研究所需数据的 SQL 脚本，支持论文《[请填写论文标题]》中的数据分析需求。
+本项目包含从 [MIMIC-IV 3.1 版本](https://physionet.org/content/mimiciv/3.1/) 
+中所需数据，并生成相应的数据集。 数据库中提取研究所需数据的 SQL 脚本，支持论文 **_Relationship Between the Duration of Early Vital 
+Sign Abnormalities in Acute Cardiovascular Diseases and 120-Day Mortality 
+Risk: Determination of Clinically Relevant Thresholds_** 中的数据分析需求。
 
 ---
 
@@ -27,6 +30,9 @@ Sign Abnormalities in Acute Cardiovascular Diseases and 120-Day Mortality Risk: 
 
 确保已安装以下工具：
 - PostgreSQL 客户端（如 `psql` 或 DBeaver）
+- DataGrip
+- Python 3
+- Navicat Premium
 
 ### 物化视图修改和自定义后的文件
 [mimic-code-main-revised](./mimic-code-main-revised)

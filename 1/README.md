@@ -2,7 +2,9 @@
 
  [For Chinese Version Click here](./README_CN.md)
 
-This project contains SQL scripts for extracting research-related data from the [MIMIC-III](https://mimic.physionet.org/) or [MIMIC-IV](https://mimic.physionet.org/) database, supporting the data analysis needs of the paper titled **"Relationship Between the Duration of Early Vital Sign Abnormalities in Acute Cardiovascular Diseases and 120-Day Mortality Risk: Determination of Clinically Relevant Thresholds"**.
+This project contains SQL scripts for extracting research-related data from 
+the  [MIMIC-IV v3.1](https://physionet.org/content/mimiciv/3.1/) database. It is designed to
+ support the data analysis needs of the paper titled **"Relationship Between the Duration of Early Vital Sign Abnormalities in Acute Cardiovascular Diseases and 120-Day Mortality Risk: Determination of Clinically Relevant Thresholds"**.
 
 ---
 
